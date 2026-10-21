@@ -1,0 +1,14 @@
+imagem do youtube com link 
+<!DOCTYPE html>
+<head>
+    <title>missao web</title>
+</head>
+<body>
+
+
+    <a href="https://www.youtube.com/watch?v=8UqNVzY0EVg"</a>
+    <img src="https://cdcc.usp.br/wp-content/uploads/sites/512/2024/10/Curso-de-Astronomia.png" alt="microscopio" height="400" width="400">
+    <img src="https://consumidormoderno.com.br/wp-content/uploads/2023/09/observatory-under-milky-way-galaxy-picture-id1166629174.jpg"; alt="observador" height="400" width="400">
+   
+</body>
+</html>
