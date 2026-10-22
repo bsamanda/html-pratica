@@ -1,0 +1,22 @@
+tabela com html 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <title>Minha tabela</title>
+</head>
+<body>
+    
+    <table border="2" style="width: 400px; height: 200px; background-color: orange; display: inline-block;">
+        <tr>
+            <td  style="font-size: 40px;" >dell </td>
+        </tr>
+    </table>
+
+    <table
+     border="2" style="width: 400px; height: 200px;  background-color: green; display: inline-block;">
+        <tr>
+           <td style="font-size: 40px; ">mac</td>
+    </tr>
+</table> 
+</body>
+</html>
