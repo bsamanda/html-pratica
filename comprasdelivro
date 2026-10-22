@@ -1,0 +1,86 @@
+site de compra de livro
+
+
+
+<!DOCTYPE html>
+<head>
+    <title>basics</title>
+</head>
+<style>
+    .linha{
+        display: flex;
+        justify-content: center;
+        height: auto;
+        flex-direction: row;
+        border-bottom: 1px solid black;
+    }
+
+    .img {
+
+        height: 500px;
+        width:  500px;
+        padding:10px;
+
+    }
+    p{
+
+        font-syle:italic;
+        font-family:monospace;
+    }
+    footer{
+
+        text-align: right;
+        font-style: italic;
+        font-family: monospace;
+        margin-top: 10px;
+    }
+    body{
+
+        background-color:pink;
+
+    }
+        h1{
+            font-size:100px;
+            color :white;
+            text -align:center;
+            
+        }
+    .links {
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        margin: 10px;
+        width: 100%;
+    }
+
+</style>
+<body>
+    <h1 style =text-align:center> Pink is my vibe @ </h1>
+
+    <div class="linha">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpk3nhCGRLUllHvvNEWDUiNYNONCR8nNVDq5S9x0aXhNT2K5C9Buvu6Zgq&s=10"
+     alt="livraria" width="400" height="400">
+    <img src="https://distritoanhembi.com.br/wp-content/uploads/2025/12/BIENAL-DO-LIVRO.png" alt="bienal" width="400" height="400">
+</div>
+
+
+<div class="links">
+    <a href="https://www.livrariadavila.com.br/">
+        Clique para visitar a Livraria da Vila 💗
+    </a>
+    <a href="https://www.bienaldolivrosp.com.br/">
+        clique  para visitar a bienal 💗
+    </a>
+
+</div>
+    <hr>
+    <footer>
+       ©  ambeatri 2026
+    </footer>
+
+</body>
+
+ 
+</html>
