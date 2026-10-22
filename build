@@ -1,0 +1,12 @@
+build
+c2r4p6% nano build.sh
+c2r4p6% ./ buld.sh
+zsh: permission denied: ./
+c2r4p6% 
+c2r4p6% 
+c2r4p6% chmod +x build.sh
+c2r4p6% ./build.sh 01 02 03 04
+c2r4p6% ls
+argv.sh  build.sh  ex01  ex02  ex03  ex04
+c2r4p6% 
+c2r4p6% 
