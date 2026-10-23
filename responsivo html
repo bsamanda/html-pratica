@@ -1,0 +1,23 @@
+responsive html 
+
+<!DOCTYPE html>
+<head>
+    <title>responsive html</title>
+    <link rel="stylesheet" href="responsive.css"
+
+</head>
+
+<body>
+    <table>
+        <colgroup>
+            <col>
+            <col>
+        </colgroup>
+
+        <tr>
+            <td>Dell</td>
+            <td>Mac</td>
+        </tr>
+    </table>
+</body>
+</html>
