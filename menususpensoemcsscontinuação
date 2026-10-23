@@ -1,0 +1,50 @@
+menu suspenso em css continuação
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: black;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav li a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+}
+
+nav li a:hover {
+    background-color: aquamarine;
+    color: black;
+}
+
+.dropdown-menu {
+    position: absolute;
+    background-color: white;
+    box-shadow: 0 0 5px black;
+    display: none;
+    min-width: 150px;
+}
+
+.dropdown-menu a {
+    display: block;
+    color: black;
+    padding: 12px;
+    text-decoration: none;
+}
+
+.dropdown-menu a:hover {
+    background-color: aquamarine;
+    color: black;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
